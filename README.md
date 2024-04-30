@@ -8,7 +8,8 @@ This is a practical software test automation project that demonstrates a real te
 
 
 * TestNG
-* ![image](https://github.com/moataz70/EcommerceAutomationProject/assets/116844758/68ba48c9-c866-44a4-a1c9-2fb3f1a956c6)
+*![image]
+ (https://github.com/moataz70/EcommerceAutomationProject/assets/116844758/68ba48c9-c866-44a4-a1c9-2fb3f1a956c6)
 
 
 ## Demo Website used:
